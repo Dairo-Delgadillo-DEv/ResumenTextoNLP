@@ -422,10 +422,10 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👤 Autor
 
-**Tu Nombre**
+**Dairo Delgadillo**
 
-- GitHub: [@TU USUARIO](https://github.com/Dairo-Delgadillo-DEv)
-- LinkedIn: [TU PERFIL](https://linkedin.com/in/dairo-delgadillo-dairo-delgadillo-dev)
+- GitHub: (https://github.com/Dairo-Delgadillo-DEv)
+- LinkedIn: (https://linkedin.com/in/dairo-delgadillo-dairo-delgadillo-dev)
 - Email: dairodelgadillo302@gmail.com
 
 ---
